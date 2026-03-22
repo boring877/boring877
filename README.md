@@ -43,7 +43,7 @@ const boring877 = {
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack ( `ω´ )
 
 <div align="center">
 
@@ -53,7 +53,7 @@ const boring877 = {
 
 ---
 
-### ♪️ Currently
+### ♪️ Currently ╰(▔∀▔)╯
 
 <div align="center">
 
@@ -71,8 +71,6 @@ const boring877 = {
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5eDl3NHR5NTlucHo5Z3p5aTczeTB1MjBwYnh6ZmgwdTdrZHNqZCZlcD12MV9pbnRlMnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
-
-  <sub>Built with 🩷 and too much coffee</sub>
+  <sub>╭( =^‥^=)╭ Grind never stops nya~</sub>
 
 </div>
