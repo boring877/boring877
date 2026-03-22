@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  [![Discord](https://img.shields.io/badge/Discord-boring877-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=312E81)](https://discord.com/users/boring877)
+  [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=312E81)](https://discord.gg/y5QDWYJFMf)
   [![Gacha Wiki](https://img.shields.io/badge/Gacha_Wiki-Visit-FF6B9D?style=for-the-badge&logo=github&logoColor=white&labelColor=831843)](https://github.com/boring877/gacha-wiki)
   [![GitHub](https://img.shields.io/badge/GitHub-boring877-2D2B55?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=1E1B4B)](https://github.com/boring877)
   ![Status](https://img.shields.io/badge/Status-Grinding_%F0%9F%8E%AE-F9A8D4?style=for-the-badge&labelColor=1E1B2E)
