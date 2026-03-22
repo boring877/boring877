@@ -43,90 +43,11 @@ const boring877 = {
 
 ---
 
-### ⚔️ GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boring877&show_icons=true&hide_title=false&hide_rank=false&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=CBD5E1&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boring877&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&text_color=CBD5E1&langs_count=10&card_width=320" />
-
-</div>
-
-<div align="center">
-
-  <img width="700em" src="https://github-readme-streak-stats.herokuapp.com?user=boring877&theme=catppuccin_mocha&hide_border=true&background=1E1B2E&stroke=F9A8D4&ring=C4B5FD&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=A78BFA&dates=6B7280" alt="Streak Stats" />
-
-</div>
-
----
-
-### 📊 3D Contributions
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/boring877/boring877/blob/main/assets/3d-contrib-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/boring877/boring877/blob/main/assets/3d-contrib.svg" />
-    <img alt="3D Contributions" src="https://github.com/boring877/boring877/blob/main/assets/3d-contrib-dark.svg" width="700" />
-  </picture>
-
-</div>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boring877/boring877/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boring877/boring877/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/boring877/boring877/output/github-snake-dark.svg" width="700" />
-  </picture>
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,tailwind,html,css,git,github,docker,linux,vscode,visualstudio&theme=light" alt="Tech Stack" />
-
-</div>
-
----
-
-### ⏱️ WakaTime Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&text_color=CBD5E1&icon_color=C4B5FD&langs_count=8&range=all_time" alt="WakaTime Stats" />
-
-</div>
-
----
-
-### 📌 Activity Graph
-
-<div align="center">
-
-  <img width="700em" src="https://github-readme-activity-graph.vercel.app/graph?username=boring877&bg_color=1E1B2E&color=C4B5FD&line=F9A8D4&point=A78BFA&area=true&hide_border=true&radius=8" alt="Activity Graph" />
-
-</div>
-
----
-
-### ⭐ Pinned Repos
-
-<div align="center">
-
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=boring877&repo=gacha-wiki&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=CBD5E1&show_owner=true" />
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=boring877&repo=ai-speech-to-text&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=CBD5E1&show_owner=true" />
-
-</div>
-
-<div align="center">
-
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=boring877&repo=tasky&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=CBD5E1&show_owner=true" />
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=boring877&repo=gachawikiapi&theme=catppuccin_mocha&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=CBD5E1&show_owner=true" />
 
 </div>
 
@@ -150,7 +71,7 @@ const boring877 = {
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5eDl3NHR5NTlucHo5Z3p5aTczeTB1MjBwYnh6ZmgwdTdrZHNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5eDl3NHR5NTlucHo5Z3p5aTczeTB1MjBwYnh6ZmgwdTdrZHNqZCZlcD12MV9pbnRlMnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
 
   <sub>Built with 🩷 and too much coffee</sub>
 
