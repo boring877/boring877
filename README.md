@@ -21,7 +21,9 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=About%20Me%20%E2%99%A1&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/about-me.png" width="300" alt="About Me" />
+</p>
 
 <div align="center">
 
