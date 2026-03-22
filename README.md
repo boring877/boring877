@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=boring877&color=F9A8D4&style=for-the-badge&label=VISITORS&label_color=1E1B2E" alt="Visitor count" />
   <br/><br/>
   <a href="https://github.com/boring877">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&duration=2800&pause=800&color=F9A8D4&center=true&vCenter=true&width=500&lines=Hey+nya+%E2%97%91+%CB%99%E1%B4%97%CB%99%E2%97%91+%F0%9F%90%B1;I+pull+SSRs+so+you+don't+have+to;Error+404%3A+Sleep+not+found;const+life+%3D+new+RPG();life.grind();My+code+works+and+I+dont+know+why;Betting+my+life+savings+on+doge...+jk;Ctrl+C+Ctrl+V+is+a+skill+right%3F;Probably+making+another+side+project" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&duration=2800&pause=800&color=F9A8D4&center=true&vCenter=true&width=600&lines=Hey+nya+%E2%97%91+%CB%99%E1%B4%97%CB%99%E2%97%91+%F0%9F%90%B1;I+pull+SSRs+so+you+dont+have+to;Error+404%3A+Sleep+not+found;const+life+%3D+new+RPG();life.grind();My+code+works...+I+dunno+why;Ctrl+C+Ctrl+V+is+a+skill+right%3F;Probably+making+another+side+proj" alt="Typing SVG" />
   </a>
 </p>
 
