@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=boring877&color=F9A8D4&style=for-the-badge&label=VISITORS&label_color=1E1B2E" alt="Visitor count" />
   <br/><br/>
   <a href="https://github.com/boring877">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&duration=2800&pause=800&color=F9A8D4&center=true&vCenter=true&width=500&lines=Hey+nya+%E2%97%91+%CB%99%E1%B4%97%CB%99%E2%97%91+%F0%9F%90%B1;I'm+GachaJunkie!;Grinding+like+a+JRPG+protagonist;Building+cool+stuff+%7C+Trading+%7C+Gaming;Welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&duration=2800&pause=800&color=F9A8D4&center=true&vCenter=true&width=500&lines=Hey+nya+%E2%97%91+%CB%99%E1%B4%97%CB%99%E2%97%91+%F0%9F%90%B1;I+pull+SSRs+so+you+don't+have+to;Error+404%3A+Sleep+not+found;const+life+%3D+new+RPG();life.grind();My+code+works+and+I+dont+know+why;Betting+my+life+savings+on+doge...+jk;Ctrl+C+Ctrl+V+is+a+skill+right%3F;Probably+making+another+side+project" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<br/>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/about-me.png" width="300" alt="About Me" />
@@ -41,11 +41,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%E2%9A%94%EF%B8%8F+GitHub+Stats&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### ⚔️ GitHub Stats
 
 <div align="center">
 
@@ -60,11 +58,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%F0%9F%93%8A+3D+Contributions&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### 📊 3D Contributions
 
 <div align="center">
 
@@ -86,11 +82,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -98,11 +92,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%E2%8F%B1%EF%B8%8F+WakaTime+Stats&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### ⏱️ WakaTime Stats
 
 <div align="center">
 
@@ -110,11 +102,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%F0%9F%93%8C+Activity+Graph&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### 📌 Activity Graph
 
 <div align="center">
 
@@ -122,11 +112,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%E2%AD%90+Pinned+Repos&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### ⭐ Pinned Repos
 
 <div align="center">
 
@@ -142,11 +130,9 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
+---
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=120&section=header&text=%E2%99%AA%EF%B8%8F+Currently&fontSize=26&fontColor=F9A8D4&animation=fadeIn&fontAlignY=35" />
+### ♪️ Currently
 
 <div align="center">
 
@@ -160,17 +146,11 @@ const boring877 = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=80&section=footer" />
-
-<br/>
+---
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,45&height=100&section=footer" />
-
-  <p>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5eDl3NHR5NTlucHo5Z3p5aTczeTB1MjBwYnh6ZmgwdTdrZHNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
-  </p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5eDl3NHR5NTlucHo5Z3p5aTczeTB1MjBwYnh6ZmgwdTdrZHNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing" />
 
   <sub>Built with 🩷 and too much coffee</sub>
 
