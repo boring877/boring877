@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/banner.jpg" width="1000" alt="Banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=boring877&color=F9A8D4&style=for-the-badge&label=VISITORS&label_color=1E1B2E" alt="Visitor count" />
   <br/><br/>
   <a href="https://github.com/boring877">
