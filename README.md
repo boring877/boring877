@@ -53,22 +53,6 @@ const boring877 = {
 
 ---
 
-### ♪️ Currently ╰(▔∀▔)╯
-
-<div align="center">
-
-```text
-🎵 Listening to: lofi / game OSTs
-🎮 Playing:      Gacha games (always)
-📈 Trading:       Crypto futures
-🔧 Building:      Cool side projects
-🐱 Mood:          Grinding nya~
-```
-
-</div>
-
----
-
 <div align="center">
 
   <sub>╭( =^‥^=)╭ Grind never stops nya~</sub>
