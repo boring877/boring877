@@ -21,6 +21,35 @@
 
 ---
 
+### 📊 GitHub Stats ( `ω´ )
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boring877&show_icons=true&theme=rose&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=F9A8D4&text_color=C4B5FD&ring_color=F9A8D4&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boring877&layout=donut-vertical&theme=rose&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&text_color=C4B5FD&langs_count=10" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boring877&theme=rose&hide_border=true&background=1E1B2E&ring=F9A8D4&fire=C4B5FD&currStreakLabel=F9A8D4&sideLabels=C4B5FD&dates=C4B5FD" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boring877&theme=rose&no-bg=true&no-frame=true&column=4&margin-w=10&title_color=F9A8D4&icon_color=F9A8D4&text_color=C4B5FD" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boring877&bg_color=1E1B2E&color=C4B5FD&line=F9A8D4&point=F9A8D4&area=true&hide_border=true&radius=8" width="100%" />
+</div>
+
+<div align="center">
+
+  ![Total Stars](https://img.shields.io/badge/Total_Stars-5-F9A8D4?style=flat-square&labelColor=1E1B2E)
+  ![Total Forks](https://img.shields.io/badge/Total_Forks-7-C4B5FD?style=flat-square&labelColor=1E1B2E)
+  ![Followers](https://img.shields.io/badge/Followers-4-F9A8D4?style=flat-square&labelColor=1E1B2E)
+  ![Repos](https://img.shields.io/badge/Public_Repos-26-C4B5FD?style=flat-square&labelColor=1E1B2E)
+  ![Gacha Wiki Views](https://img.shields.io/badge/Gacha_Wiki_Views-393-F9A8D4?style=flat-square&labelColor=1E1B2E)
+  ![Gacha Wiki Clones](https://img.shields.io/badge/Gacha_Wiki_Clones-102-C4B5FD?style=flat-square&labelColor=1E1B2E)
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/about-me.png" width="300" alt="About Me" />
 </p>
@@ -49,6 +78,12 @@ const boring877 = {
 
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,tailwind,html,css,git,github,docker,linux,vscode,visualstudio&theme=light" alt="Tech Stack" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/boring877/boring877/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
 </div>
 
 ---
