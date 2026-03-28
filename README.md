@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats ( `ω´ )
+### GitHub Stats ( `ω´ )
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boring877&show_icons=true&theme=rose&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=F9A8D4&text_color=C4B5FD&ring_color=F9A8D4&include_all_commits=true" width="49%" />
@@ -72,7 +72,7 @@ const boring877 = {
 
 ---
 
-### 🛠️ Tech Stack ( `ω´ )
+### Tech Stack ( `ω´ )
 
 <div align="center">
 
