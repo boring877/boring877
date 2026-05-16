@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/about-me.png" width="1000" alt="Banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=boring877&color=22D3EE&style=for-the-badge&label=VISITORS&label_color=0F172A" alt="Visitor count" />
   <img src="https://img.shields.io/badge/TOTAL_CLONES-102-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Total Clones" />
   <br/><br/>
@@ -17,10 +21,6 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/boring877/boring877/main/assets/about-me.png" width="300" alt="About Me" />
-</p>
 
 <div align="center">
 
