@@ -22,6 +22,29 @@
 
 ---
 
+### 🪙 GachaWiki Token ($GW)
+
+<div align="center">
+
+  [![$GW Token](https://img.shields.io/badge/$GW-Token-A0522D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1C0A00)](https://www.ponsfamily.com/launchpad/0x50bE7832849EFEdB15611799074FcC409522f27A)
+  ![Network](https://img.shields.io/badge/Network-Robinhood_Chain_(4663)-8B4513?style=for-the-badge&labelColor=1C0A00)
+
+</div>
+
+<div align="center">
+
+The official token of [GachaWiki](https://github.com/boring877/gacha-wiki) — an open-source gacha-game wiki built over the past year.
+
+| | |
+| --- | --- |
+| **Contract** | `0x50bE7832849EFEdB15611799074FcC409522f27A` |
+| **Network** | Robinhood Chain (ChainID 4663) |
+| **Launchpad** | [ponsfamily.com/launchpad/0x50bE…f27A](https://www.ponsfamily.com/launchpad/0x50bE7832849EFEdB15611799074FcC409522f27A) |
+
+</div>
+
+---
+
 <div align="center">
 
 ```typescript
