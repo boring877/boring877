@@ -22,7 +22,7 @@
 
 ---
 
-### 🪙 GachaWiki Token ($GW)
+### GachaWiki Token ($GW)
 
 <div align="center">
 
